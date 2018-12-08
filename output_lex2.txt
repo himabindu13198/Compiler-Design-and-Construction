@@ -1,0 +1,11 @@
+token(keyword,void) token(keyword,main) ()
+{
+token(keyword,int) token(identifier,x) ;
+token(keyword,if) (token(identifier,x) token(Operator,%) token(number,2) token(Relop,<>) token(number,0) )
+{
+token(keyword,printf) ("token(identifier,x) token(identifier,is) token(identifier,odd) ");
+}
+token(keyword,else) 
+{
+token(keyword,printf) ("token(identifier,x) token(identifier,is) token(identifier,even) ");
+}

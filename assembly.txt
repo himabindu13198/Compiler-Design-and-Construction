@@ -1,0 +1,14 @@
+MOV AX,5
+
+MOV AX,b
+DIV 5
+MOV a,AX
+
+MOV AX,a
+MUL 3
+MOV c,AX
+
+MOV AX,c
+ADD 8
+MOV d,AX
+

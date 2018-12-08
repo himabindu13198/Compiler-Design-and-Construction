@@ -1,0 +1,19 @@
+/*This is the input file for first lex program */
+
+#include<stdio.h>
+
+int x=5;
+
+/* x is a variable
+with value 5 */
+
+void main()
+{
+for(i=0;i<5;i++)
+{
+};
+
+int arr[5];
+
+x++;
+}
